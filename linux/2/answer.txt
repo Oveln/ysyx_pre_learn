@@ -1,0 +1,3 @@
+/bin/ls --block-size=k -la --color --sort=time --time=ctime ~
+
+
